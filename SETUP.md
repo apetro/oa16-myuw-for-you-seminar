@@ -32,6 +32,8 @@ Default locale: en_US, platform encoding: UTF-8
 OS name: "mac os x", version: "10.11.4", arch: "x86_64", family: "mac"
 ```
 
+Your version number may be more recent.
+
 ## angularjs-portal
 
 angularjs-portal implements some of the user experiences in the new MyUW, so you'll need a copy of it that you can build and run.
@@ -106,6 +108,8 @@ $ node -v
 v5.8.0
 ```
 
+Your version number may be more recent.
+
 ## npm
 
 You'll need `npm` to build `uw-frame`.
@@ -118,6 +122,8 @@ npm is successfully installed when you can run `npm -v` and get back a reasonabl
 npm -v
 3.7.3
 ```
+
+Your version number may be more recent.
 
 ## grunt
 
