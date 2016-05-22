@@ -8,7 +8,7 @@
 
 MyUW innovates beyond traditional uPortal toward rich Web experiences backed by JSON services.
 
-This seminar features hands-on exercises demonstrating angularjs-portal for search and browse; widgets for dashboard experiences; uw-frame for custom application development; and will conclude by examining integration and synergy with uPortal itself.
+This seminar features hands-on exercises demonstrating `angularjs-portal` for search and browse; widgets for dashboard experiences; `uw-frame` for custom application development; and will conclude by examining integration and synergy with uPortal itself.
 
 Participants will leave ready to augment their existing uPortal, or start an implementation fresh, or at the least having learned a bit about AngularJS.
 
