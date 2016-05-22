@@ -71,7 +71,23 @@ Whether notifications display is governed by settings in `app-config.js` (in Ang
 
 In `uw-frame` `2.3.0`, notifications are disabled by default. This is helpful for local development, but enabling these with the `notificationFullURL` pointed at the `angularjs-portal` `notifications.json` allows the frame-based app to participate in the portal notifications, that is, so that the user sees the same notifications "globally" whether in the landing page or in a frame-based app.
 
-In `angularjs-portal` `4.2.1.6` notifications are enabled by default, and `groupFiltering` is turned on by default. Localhost `angularjs-portal` uses a mock implementation of the groups web service to pretend that the mock user is a member of some groups.
+In `angularjs-portal` `4.2.1.6` notifications are enabled by default, and `groupFiltering` is turned on by default. 
+
+### Filtering notifications by group
+
+Localhost `angularjs-portal` uses a mock implementation of the groups web service to pretend that the mock user is a member of some groups.
+
+In `override.js`, which overrides `uw-frame`'s `app-config.js`:
+
+```
+'SERVICE_LOC' : {
+  ...
+  'groupURL' : '/portal/api/groups',
+```
+
+In localhost development, that `/portal/api/groups` path is fulfilled by a text file,
+
+`/angularjs-portal-mock-portal/src/main/webapp/api/groups`
 
 ## Limitations and potential in notifications
 
