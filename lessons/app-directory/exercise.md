@@ -8,3 +8,15 @@ Hints:
 
 * It's `mvn clean package && mvn jetty:run` to run `angularjs-portal` from the root of that project.
 * Quotes within quotes in JSON need to be escaped effectively.
+
+`angularjs-portal` caches the app directory client-side for performance, since it doesn't change often.
+
+But it'll change when you change it!
+
+You can easily clear your browser cache of `angularjs-portal` content at
+
+http://localhost:8080/web/settings
+
+via the controls in the "Danger Zone", which are not at all dangerous. `angularjs-portal` gracefully re-loads whatever it can't find in local storage.
+
+![Tool for clearing cache](http://goo.gl/pdDItb)

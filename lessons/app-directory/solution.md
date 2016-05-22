@@ -124,3 +124,13 @@ Click the Add more to home button to get to the app directory.
 This edited entry is displayed first.
 
 ![App directory entry for Mysterious Bookshop](http://goo.gl/9ehkUR)
+
+## Not seeing it? Try clearing your cache
+
+You can easily clear your browser cache of `angularjs-portal` content at
+
+http://localhost:8080/web/settings
+
+via the controls in the "Danger Zone", which are not at all dangerous. `angularjs-portal` gracefully re-loads whatever it can't find in local storage.
+
+![Tool for clearing cache](http://goo.gl/pdDItb)
