@@ -48,31 +48,31 @@ In session room before official session start, setting up and helping any earlyb
 * rest-proxy
 * KeyValueStore
 
-9:45a : Quick break
+# 9:45a : Quick break
 
-9:50a : Exercises!
+# 9:50a : Exercises!
 
 * notifications
 * announcements
 * app-directory
 
-10:25a : Coffee break
+# 10:25a : Coffee break
 
-10:35a : Widgets
+# 10:35a : Widgets
 
 * typed widgets
 
-11a : Theming
+# 11a : Theming
 
-11:20a : Last quick break
+# 11:20a : Last quick break
 
-11:25a : uPortal integration
+# 11:25a : uPortal integration
 
 * uPortal web services
 * Configuration points
 
-11:45a : Other questions and discussion
+# 11:45a : Other questions and discussion
 
-Noon : adjourn
+# Noon : adjourn
 
 But around for the rest of the conference.
