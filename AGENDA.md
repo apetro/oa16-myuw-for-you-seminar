@@ -58,6 +58,10 @@ In session room before official session start, setting up and helping any earlyb
 
 # 10:25a : Coffee break
 
+Except there's no catered coffee service. :(
+  
+So. Do we take a quick walk, or do we press on?
+
 # 10:35a : Widgets
 
 * typed widgets
