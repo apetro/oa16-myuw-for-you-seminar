@@ -9,4 +9,5 @@ The easiest way to deliver an aesthetically pleasing widget is to use a supporte
 See also:
 
  * [Widget documentation (frame)](http://uw-madison-doit.github.io/uw-frame/latest/#/md/widgets)
+ * [Widget documentation (angularjs-portal)](http://uw-madison-doit.github.io/angularjs-portal/latest/#/md/expanded)
  * [Widget creator tool](https://public.test.my.wisc.edu/web/widget-creator) ( or [old version](https://tools.my.wisc.edu/widget-creator/#/default) ).
