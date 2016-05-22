@@ -6,6 +6,7 @@ Stuff to download, stuff to set up, how to tell that it's ready.
  * angularjs-portal
  * node
  * npm
+ * grunt
  * uw-frame
 
 ## Maven
@@ -117,6 +118,20 @@ npm is successfully installed when you can run `npm -v` and get back a reasonabl
 npm -v
 3.7.3
 ```
+
+## grunt
+
+You'll need `grunt` to build `uw-frame`. Fortunately, you can install `grunt` using `npm`.
+
+http://gruntjs.com/getting-started
+
+```
+$ grunt --version
+grunt-cli v0.1.13
+grunt v0.4.5
+```
+
+Your version numbers may be more recent.
 
 ## uw-frame
 
