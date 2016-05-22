@@ -1,5 +1,9 @@
-# oa16-myuw-for-you-seminar
-Resources for the MyUW for You seminar at Open Apereo 2016.
+# What is here?
+
+ * this README (abstract)
+ * AGENDA.md (agenda for the 3 hour in-person seminar)
+ * lessons folder (contains bite-size content)
+
 # Abstract
 
 MyUW innovates beyond traditional uPortal toward rich Web experiences backed by JSON services.
