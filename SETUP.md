@@ -119,7 +119,7 @@ https://docs.npmjs.com/getting-started/installing-node
 npm is successfully installed when you can run `npm -v` and get back a reasonable version number.
 
 ``` 
-npm -v
+$ npm -v
 3.7.3
 ```
 
